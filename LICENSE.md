@@ -6,7 +6,7 @@ Copyright (c) 2026 Adel Mahmoudian
 
 All rights reserved.
 
-The Adel | Asset Hub and all associated materials are proprietary and intended for internal use by the author only.
+The Adel | Asset Hub and all associated materials are proprietary and intended for internal use by the author only. 
 
 ---
 
