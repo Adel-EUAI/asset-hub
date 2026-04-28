@@ -31,3 +31,4 @@ Example:
 
 ```txt
 https://adel-euai.github.io/asset-hub/logos/example.png
+```
