@@ -1,4 +1,4 @@
-# Asset Hub
+# Adel | Asset Hub
 
 A centralized asset repository for the Adel ecosystem.
 
