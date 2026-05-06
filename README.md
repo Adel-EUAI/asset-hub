@@ -1,34 +1,56 @@
 # Adel | Asset Hub
 
-A centralized asset repository for the Adel ecosystem.
-
-This repository serves as a shared source of static assets used across multiple personal projects, including web applications, interfaces, and internal tools.
+This repository serves as the centralized hub for storing, organizing, and delivering static assets used across projects developed by Adel Mahmoudian.
 
 ---
 
-## 📁 Purpose
+## 📊 Status
 
-Asset Hub is used to store and manage shared visual and static resources such as:
-
-- Logos
-- Icons
-- Covers / Banners
-- UI Assets
-- Favicons
-- Other reusable design materials
-
-These assets are referenced across different projects within the Adel ecosystem.
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![License](https://img.shields.io/badge/license-Proprietary-red)
 
 ---
 
-## ⚙️ Usage
+## 📁 Project Structure
 
-This repository is intended for **internal personal development use only**.
-
-Assets are accessed via direct URLs and used across other projects as needed.
-
-Example:
-
-```txt
-https://adel-euai.github.io/asset-hub/logos/example.png
+```text
+asset-hub/
+├── .gitignore              # Git Filter: excludes sensitive & heavy files
+├── LICENSE.md              # Proprietary License (Copyright © 2026 Adel Mahmoudian)
+├── package.json            # Project metadata + scripts (build / deploy)
+├── README.md               # Developer documentation
+├── banner/                 # Project banner
+├── cover/                  # Project cover
+├── logo/                   # Project logo
+└── screenshot/             # Project screenshots
 ```
+
+---
+
+## 👤 Author
+
+**Adel Mahmoudian**
+Process Engineer (MSc) and Web App Developer
+
+---
+
+## 📞 Contact
+
+* Email: [adel.euai@gmail.com](mailto:adel.euai@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/adel-euai](https://www.linkedin.com/in/adel-euai)
+* GitHub: [https://github.com/Adel-EUAI](https://github.com/Adel-EUAI)
+* Website: [adel-euai.github.io](https://adel-euai.github.io)
+
+---
+
+## 📜 License
+
+This project is licensed under a Proprietary License.  
+See the `LICENSE.md` file for detailed information.
+
+---
+
+*Built for centralized asset management and efficient resource delivery.*
+
+© 2026–present Adel | Asset Hub
